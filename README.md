@@ -12,6 +12,12 @@ For interested readers who would like to learn more about the research behind th
 
 📖 **[View Thesis on HAL Science](https://theses.hal.science/tel-04987457)**
 
+## License
+
+This project is licensed under the MIT License with additional citation requirements for academic and research use. See the [LICENSE](LICENSE) file for details.
+
+**Important for Researchers:** If you use this code in your research work, please cite the original PhD thesis as specified in the license.
+
 ## Status
 
 🚧 **Repository Under Construction** - Python codes are being added progressively.
