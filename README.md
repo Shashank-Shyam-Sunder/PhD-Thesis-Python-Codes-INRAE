@@ -1,6 +1,6 @@
-# PhD Thesis Python Codes - INRAE
+# PhD Thesis Python Codes
 
-This repository will be updated with Python codes that I developed during my PhD thesis at INRAE (National Research Institute for Agriculture, Food and Environment).
+This repository will be updated with Python codes that I developed during my PhD thesis (completed at INRAE - National Research Institute for Agriculture, Food and Environment).
 
 ## About
 
